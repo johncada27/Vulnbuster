@@ -31,3 +31,11 @@ The CVE Report comes in the form of a text file, which contains the following pr
 
 # Video Demo
 https://youtu.be/tVCXVLHksIw
+
+# How to use our tool
+
+1. Copy paste 'tool' folder in your Documents folder.
+2. Run 'runtool.bat'
+
+
+
