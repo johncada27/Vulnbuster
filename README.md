@@ -35,7 +35,6 @@ https://youtu.be/tVCXVLHksIw
 # How to use our tool
 
 1. Copy paste 'tool' folder in your Documents folder.
-2. Run 'runtool.bat'. This will execute the command "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\regasm.exe /U VulnBuster.dll".
-
+2. Run 'runtool.bat'.
 
 
