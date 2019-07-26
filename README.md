@@ -34,7 +34,6 @@ https://youtu.be/tVCXVLHksIw
 
 # How to use our tool
 
-1. Copy paste 'tool' folder in your Documents folder.
-2. Run 'runtool.bat'. This will simply unregister the VulnBuster.dll in the tool folder using regasm.
+1. Run 'runtool.bat'. This will simply unregister the VulnBuster.dll in the tool folder using regasm.
 
 
