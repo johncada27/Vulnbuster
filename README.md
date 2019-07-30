@@ -1,5 +1,5 @@
 # What is VulnBuster?
-VulnBuster is command-line tool we developed that is able to detect LOLBins and generate relevant CVE reports based on the installed applications and drivers found on the system. A key defining feature is that the tool does not require administrator privileges and does not require any external program or dependency to run.
+VulnBuster is a command-line tool we developed that is able to detect LOLBins and generate relevant CVE reports based on the installed applications and drivers found on the system. A key defining feature is that the tool does not require administrator privileges and does not require any external program or dependency to run.
 
 
 
