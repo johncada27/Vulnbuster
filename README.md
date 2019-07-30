@@ -29,6 +29,8 @@ The CVE Report comes in the form of a text file, which contains the following pr
 10. Base Score
 11. Base Severity
 
+The second feature of the tool is that it is capable of finding LOLBins in the system. The tool makes use of the list of LOLBins provided at https://github.com/LOLBAS-Project/LOLBAS. The tool would first download files containing information of each LOLBin. These files would be downloaded to Documents\LOLInfo.  VulnBuster would retrieve the list of LOLBin filenames from the previously downloaded files. A search would be done to find directories containing the specified LOLBin filename. For each found LOLBin path, a check would be done to determine whether the executable can be run by the current user. This is done by attempting to run the executable and catching any permission related errors. Any of these errors would then flag the LOLBin as not executable by the current user. The search result along with a sign to indicate whether the user has permissions to execute the LOLBin in the path. Total time taken for LOLBin search would be displayed as well. 
+
 # Video Demo
 https://youtu.be/tVCXVLHksIw
 
